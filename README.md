@@ -1,1 +1,1 @@
-performing simple machine learning tasks for better understanding and documenting them.
+learning machine learning and deep learning through mini projects and documenting them in one.
