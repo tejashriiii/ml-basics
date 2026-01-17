@@ -26,3 +26,7 @@ what i learnt each colab file?:
    - used fashion_mnist dataset
    - built simple CNN model for classification of items, understood pooling layer, convoltion layer and dropout concepts
    - valuated and compared with a normal ANN model for same dataset (without CNN i.e. with feature extraction)
+  
+6. readingModel
+   - text data conversion and vectorization, Eda and feature extraction for a huge amount of data(100k books from goodreads)
+   - used simple clustering algorithm and classes for each type of reader
